@@ -1,0 +1,115 @@
+#+hugo_base_dir: .
+#+hugo_paired_shortcodes: lead
+#+hugo_paired_shortcodes: badge
+#+hugo_paired_shortcodes: alert
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout page
+:END:
+
+Join us for the "Optimization Workshop: Theory, Algorithms, and Applications" in the heart of Colombia. This event will explore the latest trends in Operations Research, Mathematical Programming, and Machine Learning.
+
+# *** Coordinates
+*When?* [[https://calendar.app.google/UTpVtMKDDVuu6zeE6][December 9-13, 2024]].
+
+*Where?* [[https://maps.app.goo.gl/GtgswKC2kWU5HfUV7][Universidad de los Andes in Bogota, Colombia]].
+
+
+*** Keynote speakers
+
+#+begin_export hugo
+{{< speakers >}}
+#+end_export
+
+
+*** Confirmed speakers
+- [[https://optima.org.au/staff/felipe-atenas/][Felipe Atenas]] (University of Melbourne, Australia)
+- [[https://sites.google.com/view/bestebasciftci/][Beste Basciftci]]  (University of Iowa, USA)
+- [[https://secquoia.github.io/1-bernalde][David Bernal Neira]] (Purdue University, USA)
+- [[https://modemat.epn.edu.ec/es/personal/jreyes][Juan Carlos de los Reyes]] (Centro de Modelización Matemática, Ecuador)
+- [[https://sites.google.com/site/optyingcui/][Ying Cui]] (University of California, Berkeley, USA)
+- [[https://sites.google.com/uw.edu/ddrusv/home][Dmitriy Drusvyatskiy]] (University of Washington, USA)
+- [[https://sites.google.com/a/u.northwestern.edu/dduque/][Daniel Duque]] (Google, USA)
+- [[https://fattahi.engin.umich.edu/][Salar Fattahi]] (University of Michigan, USA)
+- [[https://mitmgmtfaculty.mit.edu/rfreund/][Robert Freund]] (Massachusetts Institute of Technology, USA)
+- [[https://math.uniandes.edu.co/~mjunca/][Mauricio Junca]] (Universidad de los Andes, Colombia)
+- [[https://www.nicolasgarciat.com/][Nicolás García Trillos]] (University of Wisconsin-Madison, USA)
+- [[https://business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html][Leonardo Lozano]] (University of Cincinnati, USA)
+- [[https://sites.usc.edu/nannicini/][Giacomo Nannicini]] (University of Southern California, USA)
+- [[https://scholar.google.com/citations?user=na3ScswAAAAJ&hl=vi][Bernardo Pagnoncelli]] (Skema Business School, France)
+- [[https://www.andrew.cmu.edu/user/jfp/][Javier Peña]] (Carnegie Mellon University, USA)
+- [[https://www.alvaroriascos.com/][Alvaro Riascos]] (Universidad de los Andes and Quantil, Colombia)
+- [[https://www.isye.gatech.edu/users/katya-scheinberg][Katya Scheinberg]] (Georgia Institute of Technology, USA)
+- [[https://www.ise.ufl.edu/sefair/][Jorge Sefair]] (University of Florida, USA)
+- [[https://sorooshafiee.github.io/][Soroosh Shafiee]] (Cornell University, USA)
+- [[https://sites.gatech.edu/alejandro-toriello/][Alejandro Toriello]] (Georgia Institute of Technology, USA)
+- [[https://cauribe.rice.edu/][César Uribe]] (Rice University, USA)
+# - [[https://jnocedal.github.io/][Jorge Nocedal]] (Northwestern University, USA)
+# - [[https://websites.umich.edu/~siqian/][Siqian Shen]]  (University of Michigan, USA)
+
+*** Organizing committee
+- [[https://mateodd25.github.io/][Mateo Díaz]] (Johns Hopkins University, USA)
+- [[https://sites.google.com/usc.edu/gomez][Andrés Gómez]] (University of Southern California, USA)
+- [[https://math.uniandes.edu.co/~mjunca/][Mauricio Junca]] (Universidad de los Andes, Colombia)
+
+*** Contact us
+
+If you have any questions or inquiries, please contact us at =mj.junca20@uniandes.edu.co=.
+
+** Sponsors
+
+
+#+begin_export hugo
+{{< sponsors >}}
+#+end_export
+
+* Program
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout page
+:EXPORT_FILE_NAME: program
+:END:
+
+TBD
+* Registration
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
+:EXPORT_FILE_NAME: reg
+:END:
+
+Registering is nontrivial, so we have included detailed instructions.
+
+*** Link
+[[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][Please register here]]
+*** Instructions
+TBD
+* Venue
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
+:EXPORT_FILE_NAME: venue
+:END:
+The workshop will be held in Bogota, Colombia. Please come back soon for additional information about the city, hotels, and transportation.
+
+* Posters
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
+:EXPORT_FILE_NAME: poster
+:END:
+TBD
+
+* Travel grants
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
+:EXPORT_FILE_NAME: grants
+:END:
+#
+If you are a student and would like to apply for a travel grant, please submit the following application materials to =mj.junca20@uniandes.edu.co=:
+- A one-page statement stating why would you like to attend this workshop.
+- A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: =Recommendation <your-name>=.
+You can submit your application in either English and Spanish. We highlight that the talks will be in English only.

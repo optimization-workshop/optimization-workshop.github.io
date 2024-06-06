@@ -1,0 +1,51 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Optimization Worskhop'
+theme = ['huey']
+
+[menu]
+# Top Navigation
+[[menu.nav]]
+  identifier = 'about'
+  name = 'About'
+  title = 'About'
+  url = '/'
+  weight = 10
+
+[[menu.nav]]
+  identifier = 'Program'
+  name = 'Program'
+  title = "Program"
+  url = '/program/'
+  weight = 30
+
+[[menu.nav]]
+  identifier = 'Venue'
+  name = 'Venue'
+  title = "Venue"
+  url = '/venue/'
+  weight = 90
+
+
+[[menu.nav]]
+  identifier = 'Registration'
+  name = 'Registration'
+  title = "Registration"
+  url = '/reg/'
+  weight = 20
+
+
+[[menu.nav]]
+  identifier = 'Posters'
+  name = 'Posters'
+  title = "Poster"
+  url = '/poster/'
+  weight = 50
+
+
+[[menu.nav]]
+  identifier = 'Travel grants'
+  name = 'Travel grants'
+  title = "Travel grants"
+  url = '/grants/'
+  weight = 60

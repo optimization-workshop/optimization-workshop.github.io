@@ -1,0 +1,13 @@
+# data/speakers.yaml
+- name: Claudia Sagastizábal
+  image: /claudia.png
+  url: https://www.ime.unicamp.br/~sagastiz/
+- name: Simge Küçükyavuz
+  image: /simge.png
+  url: https://users.iems.northwestern.edu/~simge/
+- name: Andrés L. Medaglia
+  image: /medaglia.png
+  url: https://academia.uniandes.edu.co/AcademyCv/amedagli
+- name: Stephen J. Wright
+  image: /steve.png
+  url: https://pages.cs.wisc.edu/~swright/

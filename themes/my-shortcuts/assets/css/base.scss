@@ -1,0 +1,13 @@
+.sponsors {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.sponsor-logo {
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
