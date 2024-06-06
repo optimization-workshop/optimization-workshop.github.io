@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Optimization Worskhop</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in About on Optimization Worskhop</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>Join us for the &amp;ldquo;Optimization Workshop: Theory, Algorithms, and Applications&amp;rdquo; in the heart of Colombia. This event will explore the latest trends in Operations Research, Mathematical Programming, and Machine Learning.&#xA;When? December 9-13, 2024.&#xA;Where? Universidad de los Andes in Bogota, Colombia.&#xA;Keynote speakers Claudia Sagastizábal&#xA;Simge Küçükyavuz&#xA;Andrés L. Medaglia&#xA;Stephen J. Wright&#xA;Confirmed speakers Felipe Atenas (University of Melbourne, Australia) Beste Basciftci (University of Iowa, USA) David Bernal Neira (Purdue University, USA) Juan Carlos de los Reyes (Centro de Modelización Matemática, Ecuador) Ying Cui (University of California, Berkeley, USA) Dmitriy Drusvyatskiy (University of Washington, USA) Daniel Duque (Google, USA) Salar Fattahi (University of Michigan, USA) Robert Freund (Massachusetts Institute of Technology, USA) Mauricio Junca (Universidad de los Andes, Colombia) Nicolás García Trillos (University of Wisconsin-Madison, USA) Leonardo Lozano (University of Cincinnati, USA) Giacomo Nannicini (University of Southern California, USA) Bernardo Pagnoncelli (Skema Business School, France) Javier Peña (Carnegie Mellon University, USA) Alvaro Riascos (Universidad de los Andes and Quantil, Colombia) Katya Scheinberg (Georgia Institute of Technology, USA) Jorge Sefair (University of Florida, USA) Soroosh Shafiee (Cornell University, USA) Alejandro Toriello (Georgia Institute of Technology, USA) César Uribe (Rice University, USA) Organizing committee Mateo Díaz (Johns Hopkins University, USA) Andrés Gómez (University of Southern California, USA) Mauricio Junca (Universidad de los Andes, Colombia) Contact us If you have any questions or inquiries, please contact us at mj.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/speakers/</link>
+      <link>https://example.org/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/speakers/</guid>
+      <guid>https://example.org/speakers/</guid>
       <description>Join us for this optimization workshop in the heart of Colombia, covering recent trends in Operations Research, Mathematical Programming and Machine Learning.&#xA;Coordinates When? December 9-13, 2024&#xA;Where? Universidad de los Andes in Bogota, Colombia.&#xA;Keynote speakers Claudia Sagastizábal Simge Küçükyavuz Andrés Medaglia Stephen J. Wright Confirmed speakers Beste Basciftci (University of Iowa, USA) David Bernal Neira (Purdue University, USA) Juan Carlos de los Reyes (Centro de Modelización Matemática, Ecuador) Ying Cui (University of California, Berkeley, USA) Dmitriy Drusvyatskiy (University of Washington, USA) Daniel Duque (Google, USA) Salar Fattahi (University of Michigan, USA) Robert Freund (Massachusetts Institute of Technology, USA) Mauricio Junca (Universidad de los Andes, Colombia) Nicolás García Trillos (University of Wisconsin-Madison, USA) Leonardo Lozano (University of Cincinnati, USA) Giacomo Nannicini (University of Southern California, USA) Jorge Nocedal (Northwestern University, USA) Bernardo Pagnoncelli (Skema Business School, France) Javier Peña (Carnegie Mellon University, USA) Alvaro Riascos (Universidad de los Andes and Quantil, Colombia) Soroosh Shafiee (Cornell University, USA) Katya Scheinberg (Georgia Institute of Technology, USA) Jorge Sefair (University of Florida, USA) Alejandro Toriello (Georgia Institute of Technology, USA) César Uribe (Rice University, USA) Organizing committee Mateo Díaz (Johns Hopkins University, USA) Andrés Gómez (University of Southern California, USA) Mauricio Junca (Universidad de los Andes, Colombia) Contact us If you have any questions or inquiries, please contact us at mj.</description>
     </item>
     <item>
       <title>Posters</title>
-      <link>http://localhost:1313/poster/</link>
+      <link>https://example.org/poster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poster/</guid>
+      <guid>https://example.org/poster/</guid>
       <description>If you are a student, postdoc or junior faculty working on optimization or related fields, considering applying to present a poster.&#xA;Application Please send us an email to mj.junca20@uniandes.edu.co, with subject Poster Optimization Workshop including the title and abstract of your paper (and a link to the paper if there is one online).&#xA;Dates Event Date Application deadline September 10 2024 Decision notification October 10 2024 </description>
     </item>
     <item>
       <title>Program</title>
-      <link>http://localhost:1313/program/</link>
+      <link>https://example.org/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/</guid>
+      <guid>https://example.org/program/</guid>
       <description> Time Mon Dec 9 Tue Dec 10 Wed Dec 11 Thu Dec 12 Fri Dec 13 Mini courses </description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/reg/</link>
+      <link>https://example.org/reg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reg/</guid>
+      <guid>https://example.org/reg/</guid>
       <description>Registering is nontrivial, so we have included detailed instructions.&#xA;Link Please register here&#xA;Instructions TBD</description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/registration/</link>
+      <link>https://example.org/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/registration/</guid>
+      <guid>https://example.org/registration/</guid>
       <description>Link Please register here&#xA;Instructions TBD</description>
     </item>
     <item>
       <title>Travel grants</title>
-      <link>http://localhost:1313/grants/</link>
+      <link>https://example.org/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/grants/</guid>
+      <guid>https://example.org/grants/</guid>
       <description>We will provide travel grants to a small number of students. if you are interested in participating and do not have funds to travel consider applying.&#xA;Aplication Submit the following application materials to mj.junca20@uniandes.edu.co:&#xA;A one-page Statement of purpose (in a PDF) explaining why would you like to attend this workshop. Send your statement in an email with subject: Travel grant &amp;lt;your_name&amp;gt;. A recommendation letter from your advisor or a mentor.</description>
     </item>
     <item>
       <title>Venue</title>
-      <link>http://localhost:1313/venue/</link>
+      <link>https://example.org/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/venue/</guid>
+      <guid>https://example.org/venue/</guid>
       <description>The workshop will be held in Bogota, Colombia. Please come back soon for additional information about the city, hotels, and transportation.</description>
     </item>
   </channel>
