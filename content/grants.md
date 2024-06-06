@@ -5,9 +5,22 @@ draft = false
 layout = "simple"
 +++
 
-If you are a student and would like to apply for a travel grant, please submit the following application materials to `mj.junca20@uniandes.edu.co`:
+We will provide travel grants to a small number of students. if you are interested in participating and do not have funds to travel consider applying.
 
--   A one-page statement stating why would you like to attend this workshop.
+
+## Aplication {#aplication}
+
+Submit the following application materials to `mj.junca20@uniandes.edu.co`:
+
+-   A one-page Statement of purpose (in a PDF) explaining why would you like to attend this workshop. Send your statement in an email with subject: `Travel grant <your_name>`.
 -   A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: `Recommendation <your-name>`.
 
-You can submit your application in either English and Spanish. We highlight that the talks will be in English only.
+You can submit your application in either English or Spanish. We highlight that the event will be in English only.
+
+
+## Dates {#dates}
+
+| Event                 | Date              |
+|-----------------------|-------------------|
+| Application deadline  | September 10 2024 |
+| Decision notification | October 10 2024   |

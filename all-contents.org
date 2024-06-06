@@ -71,8 +71,8 @@ If you have any questions or inquiries, please contact us at =mj.junca20@uniande
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout page
 :EXPORT_FILE_NAME: program
 :END:
-
-TBD
+| Time | Mon Dec 9    | Tue Dec 10 | Wed Dec 11 | Thu Dec 12 | Fri Dec 13 |
+|      | Mini courses |            |            |            |            |
 * Registration
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
@@ -100,7 +100,17 @@ The workshop will be held in Bogota, Colombia. Please come back soon for additio
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
 :EXPORT_FILE_NAME: poster
 :END:
-TBD
+If you are a student, postdoc or junior faculty working on optimization or related fields, considering applying to present a poster.
+*** Application
+
+Please send us an email to =mj.junca20@uniandes.edu.co=, with subject =Poster Optimization Workshop= including the title and abstract of your paper (and a link to the paper if there is one online).
+
+*** Dates
+| Event                 | Date              |
+| Application deadline  | September 10 2024 |
+|-----------------------+-------------------|
+| Decision notification | October 10 2024   |
+
 
 * Travel grants
 :PROPERTIES:
@@ -109,7 +119,15 @@ TBD
 :EXPORT_FILE_NAME: grants
 :END:
 #
-If you are a student and would like to apply for a travel grant, please submit the following application materials to =mj.junca20@uniandes.edu.co=:
-- A one-page statement stating why would you like to attend this workshop.
+We will provide travel grants to a small number of students. if you are interested in participating and do not have funds to travel consider applying.
+
+*** Aplication
+Submit the following application materials to =mj.junca20@uniandes.edu.co=:
+- A one-page Statement of purpose (in a PDF) explaining why would you like to attend this workshop. Send your statement in an email with subject: =Travel grant <your_name>=.
 - A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: =Recommendation <your-name>=.
-You can submit your application in either English and Spanish. We highlight that the talks will be in English only.
+You can submit your application in either English or Spanish. We highlight that the event will be in English only.
+*** Dates
+| Event                 | Date              |
+| Application deadline  | September 10 2024 |
+|-----------------------+-------------------|
+| Decision notification | October 10 2024   |
