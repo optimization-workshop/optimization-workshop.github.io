@@ -28,14 +28,14 @@ Join us for the "Optimization Workshop: Theory, Algorithms, and Applications" in
 - [[https://optima.org.au/staff/felipe-atenas/][Felipe Atenas]] (University of Melbourne, Australia)
 - [[https://sites.google.com/view/bestebasciftci/][Beste Basciftci]]  (University of Iowa, USA)
 - [[https://secquoia.github.io/1-bernalde][David Bernal Neira]] (Purdue University, USA)
-- [[https://modemat.epn.edu.ec/es/personal/jreyes][Juan Carlos de los Reyes]] (Centro de Modelización Matemática, Ecuador)
 - [[https://sites.google.com/site/optyingcui/][Ying Cui]] (University of California, Berkeley, USA)
+- [[https://modemat.epn.edu.ec/es/personal/jreyes][Juan Carlos de los Reyes]] (Centro de Modelización Matemática, Ecuador)
 - [[https://sites.google.com/uw.edu/ddrusv/home][Dmitriy Drusvyatskiy]] (University of Washington, USA)
 - [[https://sites.google.com/a/u.northwestern.edu/dduque/][Daniel Duque]] (Google, USA)
 - [[https://fattahi.engin.umich.edu/][Salar Fattahi]] (University of Michigan, USA)
 - [[https://mitmgmtfaculty.mit.edu/rfreund/][Robert Freund]] (Massachusetts Institute of Technology, USA)
-- [[https://math.uniandes.edu.co/~mjunca/][Mauricio Junca]] (Universidad de los Andes, Colombia)
 - [[https://www.nicolasgarciat.com/][Nicolás García Trillos]] (University of Wisconsin-Madison, USA)
+- [[https://math.uniandes.edu.co/~mjunca/][Mauricio Junca]] (Universidad de los Andes, Colombia)
 - [[https://business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html][Leonardo Lozano]] (University of Cincinnati, USA)
 - [[https://sites.usc.edu/nannicini/][Giacomo Nannicini]] (University of Southern California, USA)
 - [[https://scholar.google.com/citations?user=na3ScswAAAAJ&hl=vi][Bernardo Pagnoncelli]] (Skema Business School, France)
@@ -71,8 +71,22 @@ If you have any questions or inquiries, please contact us at =mj.junca20@uniande
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout page
 :EXPORT_FILE_NAME: program
 :END:
-| Time | Mon Dec 9    | Tue Dec 10 | Wed Dec 11 | Thu Dec 12 | Fri Dec 13 |
-|      | Mini courses |            |            |            |            |
+| Time          | Mon Dec 9 | Tue Dec 10 | Wed Dec 11 | Thu Dec 12 | Fri Dec 13 |
+|---------------+-----------+------------+------------+------------+------------|
+| 9:00 - 9:30   |           |            |            |            |            |
+| 9:30 - 10:00  |           |            |            |            |            |
+| 10:00 - 10:30 |           |            |            |            |            |
+| 10:30 - 11:15 |           |            |            |            |            |
+| 11:15 - 12:00 |           |            |            |            |            |
+| 12:00 - 1:30  |           |            |            |            |            |
+| 1:30 - 2:15   |           |            |            |            |            |
+| 2:15 - 3:00   |           |            |            |            |            |
+| 3:00 - 3:30   |           |            |            |            |            |
+| 3:30 - 4:15   |           |            |            |            |            |
+| 4:15 - 5:00   |           |            |            |            |            |
+| 5:00 - 6:00   |           |            |            |            |            |
+| 6:00 - 8:00   |           |            |            |            |            |
+
 * Registration
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
