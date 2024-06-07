@@ -22,5 +22,5 @@ You can submit your application in either English or Spanish. We highlight that 
 
 | Event                 | Date              |
 |-----------------------|-------------------|
-| Application deadline  | September 10 2024 |
-| Decision notification | October 10 2024   |
+| Application deadline  | September 14 2024 |
+| Decision notification | October 12 2024   |

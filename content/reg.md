@@ -5,7 +5,14 @@ draft = false
 layout = "simple"
 +++
 
-Registering is nontrivial, so we have included detailed instructions.
+Participants might decide to register online or in person (at the event).
+
+The cost for registration is:
+
+| Type of participant | Price        |
+|---------------------|--------------|
+| Student             | $ 50.000 COP |
+| Non-students        | $ 50 USD     |
 
 
 ## Link {#link}

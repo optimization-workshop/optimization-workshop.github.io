@@ -17,5 +17,5 @@ Please send us an email to `mj.junca20@uniandes.edu.co` with subject `Poster Opt
 
 | Event                 | Date              |
 |-----------------------|-------------------|
-| Application deadline  | September 10 2024 |
-| Decision notification | October 10 2024   |
+| Application deadline  | September 14 2024 |
+| Decision notification | October 12 2024   |

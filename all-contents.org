@@ -94,8 +94,13 @@ If you have any questions or inquiries, please contact us at =mj.junca20@uniande
 :EXPORT_FILE_NAME: reg
 :END:
 
-Registering is nontrivial, so we have included detailed instructions.
+# Registering is nontrivial, so we have included detailed instructions.
+Participants might decide to register online or in person (at the event).
 
+The cost for registration is:
+| Type of participant | Price        |
+| Student             | $ 50.000 COP |
+| Non-students        | $ 50 USD     |
 *** Link
 [[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][Please register here]]
 *** Instructions
@@ -121,9 +126,9 @@ Please send us an email to =mj.junca20@uniandes.edu.co= with subject =Poster Opt
 
 *** Dates
 | Event                 | Date              |
-| Application deadline  | September 10 2024 |
+| Application deadline  | September 14 2024 |
 |-----------------------+-------------------|
-| Decision notification | October 10 2024   |
+| Decision notification | October 12 2024   |
 
 
 * Travel grants
@@ -142,6 +147,6 @@ Submit the following application materials to =mj.junca20@uniandes.edu.co=:
 You can submit your application in either English or Spanish. We highlight that the event will be in English only.
 *** Dates
 | Event                 | Date              |
-| Application deadline  | September 10 2024 |
+| Application deadline  | September 14 2024 |
 |-----------------------+-------------------|
-| Decision notification | October 10 2024   |
+| Decision notification | October 12 2024   |
