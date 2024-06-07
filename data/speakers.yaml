@@ -2,12 +2,16 @@
 - name: Claudia Sagastizábal
   image: /claudia.png
   url: https://www.ime.unicamp.br/~sagastiz/
+  affiliation: Unicamp (Brazil)
 - name: Simge Küçükyavuz
   image: /simge.png
   url: https://users.iems.northwestern.edu/~simge/
+  affiliation: Northwestern University (USA)
 - name: Andrés L. Medaglia
+  affiliation: Universidad de los Andes (Colombia)
   image: /medaglia.png
-  url: https://academia.uniandes.edu.co/AcademyCv/amedagli
+  url: http://wwwprof.uniandes.edu.co/~amedagli/
 - name: Stephen J. Wright
   image: /steve.png
   url: https://pages.cs.wisc.edu/~swright/
+  affiliation: University of Wisconsin-Madison (USA)
