@@ -5,7 +5,7 @@ draft = false
 layout = "simple"
 +++
 
-We will provide travel grants to a small number of students. if you are interested in participating and do not have funds to travel consider applying.
+We will provide travel grants to a small number of students. If you are interested in participating and do not have funds to travel consider applying.
 
 
 ## Aplication {#aplication}

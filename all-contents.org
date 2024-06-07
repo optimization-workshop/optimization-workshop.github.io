@@ -138,7 +138,7 @@ Please send us an email to =mj.junca20@uniandes.edu.co= with subject =Poster Opt
 :EXPORT_FILE_NAME: grants
 :END:
 #
-We will provide travel grants to a small number of students. if you are interested in participating and do not have funds to travel consider applying.
+We will provide travel grants to a small number of students. If you are interested in participating and do not have funds to travel consider applying.
 
 *** Aplication
 Submit the following application materials to =mj.junca20@uniandes.edu.co=:
