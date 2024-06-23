@@ -49,3 +49,4 @@ theme = ['huey']
   title = "Travel grants"
   url = '/grants/'
   weight = 60
+

@@ -5,18 +5,4 @@ draft = false
 layout = "page"
 +++
 
-| Time          | Mon Dec 9 | Tue Dec 10 | Wed Dec 11 | Thu Dec 12 | Fri Dec 13 |
-|---------------|-----------|------------|------------|------------|------------|
-| 9:00 - 9:30   |           |            |            |            |            |
-| 9:30 - 10:00  |           |            |            |            |            |
-| 10:00 - 10:30 |           |            |            |            |            |
-| 10:30 - 11:15 |           |            |            |            |            |
-| 11:15 - 12:00 |           |            |            |            |            |
-| 12:00 - 1:30  |           |            |            |            |            |
-| 1:30 - 2:15   |           |            |            |            |            |
-| 2:15 - 3:00   |           |            |            |            |            |
-| 3:00 - 3:30   |           |            |            |            |            |
-| 3:30 - 4:15   |           |            |            |            |            |
-| 4:15 - 5:00   |           |            |            |            |            |
-| 5:00 - 6:00   |           |            |            |            |            |
-| 6:00 - 8:00   |           |            |            |            |            |
+On Monday we will have introductory minicourses in Continuous Optimization and Integer Optimization. The rest of the week, from Tuesday to Friday we will have research talks. Come back soon for a detailed schedule.

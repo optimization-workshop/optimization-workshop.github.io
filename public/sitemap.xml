@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/program/</loc>
   </url><url>
+    <loc>http://localhost:1313/program1/</loc>
+  </url><url>
     <loc>http://localhost:1313/reg/</loc>
   </url><url>
     <loc>http://localhost:1313/registration/</loc>

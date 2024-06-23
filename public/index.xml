@@ -33,6 +33,13 @@
       <link>http://localhost:1313/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/program/</guid>
+      <description>On Monday we will have introductory minicourses in Continuous Optimization and Integer Optimization. The rest of the week, from Tuesday to Friday we will have research talks. Come back soon for a detailed schedule.</description>
+    </item>
+    <item>
+      <title>Program1</title>
+      <link>http://localhost:1313/program1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program1/</guid>
       <description> Time Mon Dec 9 Tue Dec 10 Wed Dec 11 Thu Dec 12 Fri Dec 13 9:00 - 9:30 9:30 - 10:00 10:00 - 10:30 10:30 - 11:15 11:15 - 12:00 12:00 - 1:30 1:30 - 2:15 2:15 - 3:00 3:00 - 3:30 3:30 - 4:15 4:15 - 5:00 5:00 - 6:00 6:00 - 8:00 </description>
     </item>
     <item>
@@ -61,7 +68,7 @@
       <link>http://localhost:1313/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/venue/</guid>
-      <description>The workshop will be held in Bogota, Colombia. Please come back soon for additional information about the city, hotels, and transportation.</description>
+      <description>The workshop will be held in Bogota, Colombia. Here you can find additional details about the city, hotels, and transportation. Hotels Downtown (Close to campus) This neighborhood is close to the campus and safe, but it lacks the amenities and appeal of Chapinero or the North. Hotel Address Phone number Contact point Email Website BH BICENTENARIO Cra. 4 # 16-03 (+57) 601 744 7790 - (+57) 321 233 6107 María Claudia Gonzalez mariaclaudia.</description>
     </item>
   </channel>
 </rss>
