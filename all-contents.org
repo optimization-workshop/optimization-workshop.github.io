@@ -150,7 +150,7 @@ Chapinero is very safe and nicer than Downtown, but it is a bit further from cam
 Very safe and pleasant neighborhood. However, travel time to campus can vary and might be longer depending on traffic.
 | Hotel           | Address               | Phone number                            | Contact point          | Email                               | Website                   |
 |*EK HOTEL* | Calle 90 No 11- 13 | (+57) 601 744 7790 - (+57) 321 233 6107 | María Claudia Gonzalez | mariaclaudia.gonzalez@bhhoteles.com | www.bhhoteles.com |
-| *NH COLLECTION ROYAL TELEPORT* | Cl. 113 No 7-65 | (+57) 321 996 6849 | Sebastian Shaid Arevalo | mailto:s.sahid@nh-hotels.com | https://www.nh-hotels.com |
+| *NH COLLECTION ROYAL TELEPORT* | Cl. 113 No 7-65 | (+57) 321 996 6849 | Sebastian Shaid Arevalo | s.sahid@nh-hotels.com | https://www.nh-hotels.com |
 * Posters
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
