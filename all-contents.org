@@ -105,16 +105,78 @@ On Monday we will have introductory minicourses in Continuous Optimization and I
 :END:
 
 # Registering is nontrivial, so we have included detailed instructions.
-Participants might decide to register online or in person (at the event).
+# Participants might decide to register online or in person (at the event).
 
 The cost for registration is:
 | Type of participant | Price        |
-| Student             | $ 50.000 COP |
+| Student and Postdocs | $ 50.000 COP |
 | Non-students        | $ 50 USD     |
-*** Link
-[[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][Please register here]]
+# *** Link
+# [[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][Please register here]]
 *** Instructions
-TBD
+Registration is slightly nontrivial, so we have included detailed instructions with pictures. If you have any questions or you encounter a problem, please do not hesitate to send us an email.
+
+- =Step 1.=
+  If you have an Uniandes user you can go to Step 3. Otherwise, [[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][click here to sign up]].
+   Fill out the form. If you are not Colombian you likely want to choose "Pasaporte" for the ID number. "United States" translates to "Estados Unidos."
+   # #+CAPTION: Fill out the form. If you are not Colombian you likely want to choose "Pasaporte" for the ID number.
+   #+ATTR_HTML: :width 500px :alt Alternative text
+   [[file:/image1.jpg]]
+  
+   Confirm that everything is correct.
+   #+attr_html: :width 500px
+   [[file:/image2.jpg]]
+  
+- =Step 2.= Once you receive a confirmation email, you need to add a password.
+
+   #+attr_html: :width 500px
+   [[file:/image3.jpg]]
+
+   After that, please close that window and go to Step 3.
+
+- =Step 3.=  [[https://recaudos.uniandes.edu.co/pagos/login.xhtml?unidadCodigo=CIEN&dependenciaId=303&productoId=16150][*Students and postdocs*, please click here]] ------ [[https://recaudos.uniandes.edu.co/pagos/login.xhtml?unidadCodigo=CIEN&dependenciaId=303&productoId=16151][*Faculty*, please click here]].
+
+- =Step 4.= Select the type of account you have and log in.
+
+   #+attr_html: :width 500px
+   [[file:/image4.jpg]]
+
+- =Step 5.= Press continue twice to confirm the information event and your own information.
+
+   #+attr_html: :width 500px
+   [[file:/image5.jpg]]
+
+   # #+attr_html: :width 500px
+   # [[file:/image6.jpg]]
+
+
+- =Step 6.= Select your occupation and institution.
+   #+attr_html: :width 500px
+   [[file:/image6.jpg]]
+
+
+- =Step 7.= Select your payment method.
+    #+attr_html: :width 500px
+   [[file:/image7.jpg]]
+
+- =Step 8.= Select email to send the invoice.
+    #+attr_html: :width 500px
+   [[file:/image8.jpg]]
+
+- =Step 9.= Say yes to this nonsense.
+    #+attr_html: :width 500px
+   [[file:/image9.jpg]]
+
+- =Step 10.= Accept the terms and conditions, and then click "Make a payment".
+    #+attr_html: :width 500px
+   [[file:/image10.jpg]]
+
+- =Step 11.= Fill out payment details on PayU.
+    #+attr_html: :width 500px
+   [[file:/image11.png]]
+
+
+
 * Venue
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
@@ -178,7 +240,7 @@ Please send us an email to =mj.junca20@uniandes.edu.co= with subject =Poster Opt
 #
 We will provide travel grants to a small number of students. If you are interested in participating and do not have funds to travel consider applying.
 
-*** Aplication
+*** Application
 Submit the following application materials to =mj.junca20@uniandes.edu.co=:
 - A one-page Statement of purpose (in a PDF) explaining why would you like to attend this workshop. Send your statement in an email with subject: =Travel grant <your_name>=.
 - A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: =Recommendation <your-name>=.

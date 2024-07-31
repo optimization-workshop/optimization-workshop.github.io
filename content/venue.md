@@ -40,5 +40,5 @@ Very safe and pleasant neighborhood. However, travel time to campus can vary and
 | Hotel                            | Address            | Phone number                            | Contact point           | Email                               | Website                     |
 |----------------------------------|--------------------|-----------------------------------------|-------------------------|-------------------------------------|-----------------------------|
 | **EK HOTEL**                     | Calle 90 No 11- 13 | (+57) 601 744 7790 - (+57) 321 233 6107 | María Claudia Gonzalez  | mariaclaudia.gonzalez@bhhoteles.com | www.bhhoteles.com           |
-| **NH COLLECTION ROYAL TELEPORT** | Cl. 113 No 7-65    | (+57) 321 996 6849                      | Sebastian Shaid Arevalo | <mailto:s.sahid@nh-hotels.com>      | <https://www.nh-hotels.com> |
+| **NH COLLECTION ROYAL TELEPORT** | Cl. 113 No 7-65    | (+57) 321 996 6849                      | Sebastian Shaid Arevalo | s.sahid@nh-hotels.com               | <https://www.nh-hotels.com> |
 

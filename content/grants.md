@@ -8,7 +8,7 @@ layout = "simple"
 We will provide travel grants to a small number of students. If you are interested in participating and do not have funds to travel consider applying.
 
 
-## Aplication {#aplication}
+## Application {#application}
 
 Submit the following application materials to `mj.junca20@uniandes.edu.co`:
 
