@@ -5,7 +5,16 @@ draft = false
 layout = "page"
 +++
 
-Join us for the "Optimization Workshop: Theory, Algorithms, and Applications" in the heart of Colombia. This event will explore the latest trends in Operations Research, Mathematical Programming, and Machine Learning.
+Welcome to the webpage of the "Optimization Workshop: Theory, Algorithms, and Applications", to be held in Bogotá, Colombia. The main objective of this workshop is to bring together researchers and students from local and international communities, fostering collaboration and innovation in the field of mathematical optimization. Our aim is to promote research among young researchers and consolidate a network of optimization experts in the region.
+
+The workshop will feature over 20 talks by experts in various areas of mathematical optimization, presented in a single-track format. This structure ensures participants can attend all presentations, facilitating comprehensive learning and in-depth discussions. Our program is designed to benefit participants at all career stages, from students to established researchers. It will include:
+
+-   Minicourses to introduce new students to continuous and integer optimization,
+-   Expert talks on cutting-edge optimization topics,
+-   Social events for building academic connections,
+-   A poster session for students to share their own research.
+
+We encourage all attendees, regardless of their experience level, to actively engage in discussions and take full advantage of the collaborative environment. Join us in Bogotá for this enriching academic experience that promises to inspire and connect the next generation of optimization experts!
 
 **When?** [December 9-13, 2024](https://calendar.app.google/UTpVtMKDDVuu6zeE6).
 
@@ -19,7 +28,7 @@ Join us for the "Optimization Workshop: Theory, Algorithms, and Applications" in
 
 ### Confirmed speakers {#confirmed-speakers}
 
--   [Felipe Atenas](https://optima.org.au/staff/felipe-atenas/) (University of Melbourne, Australia)
+-   [Felipe Atenas](https://sites.google.com/view/atenas-optimization?usp=sharing) (University of Melbourne, Australia)
 -   [Beste Basciftci](https://sites.google.com/view/bestebasciftci/)  (University of Iowa, USA)
 -   [David Bernal Neira](https://secquoia.github.io/1-bernalde) (Purdue University, USA)
 -   [Ying Cui](https://sites.google.com/site/optyingcui/) (University of California, Berkeley, USA)
