@@ -5,12 +5,16 @@ draft = false
 layout = "simple"
 +++
 
-The cost for registration is:
+The deadline for **early registration is November 1.**
 
-| Type of participant  | Price        |
-|----------------------|--------------|
-| Student and Postdocs | $ 50.000 COP |
-| Non-students         | $ 50 USD     |
+The **cost for registration** is:
+
+| Type of participant                        | Price                    |
+|--------------------------------------------|--------------------------|
+| Students and postdocs (Early registration) | $12,5 USD ($50.000 COP)  |
+| Non-students (Early registration)          | $50 USD ($200.000 COP)   |
+| Students and postdocs                      | $18,75 USD ($75.000 COP) |
+| Non-students                               | $75 USD ($300.000 COP)   |
 
 
 ## Instructions {#instructions}

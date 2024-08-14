@@ -117,11 +117,15 @@ On Monday we will have introductory minicourses in Continuous Optimization and I
 
 # Registering is nontrivial, so we have included detailed instructions.
 # Participants might decide to register online or in person (at the event).
+The deadline for *early registration is November 1.*
 
-The cost for registration is:
-| Type of participant | Price        |
-| Student and Postdocs | $ 50.000 COP |
-| Non-students        | $ 50 USD     |
+The *cost for registration* is:
+| Type of participant                        | Price                    |
+| Students and postdocs (Early registration) | $12,5 USD ($50.000 COP)  |
+| Non-students (Early registration)          | $50 USD ($200.000 COP)   |
+| Students and postdocs                      | $18,75 USD ($75.000 COP) |
+| Non-students                               | $75 USD ($300.000 COP)   |
+
 # *** Link
 # [[https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml][Please register here]]
 *** Instructions
@@ -254,12 +258,10 @@ If you are a student, postdoc or junior faculty working on optimization or relat
 Please send us an email to =mj.junca20@uniandes.edu.co= with subject =Poster Optimization Workshop= including the title and abstract of your paper (and a link to the paper if there is one online).
 
 *** Dates
-| Event                 | Date              |
-| Application deadline  | September 14 2024 |
-|-----------------------+-------------------|
-| Decision notification | October 12 2024   |
-
-
+| Event                 | Date            |
+| Application deadline  | October 15 2024 |
+|-----------------------+-----------------|
+| Decision notification | October 25 2024 |
 * Travel grants
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
@@ -275,7 +277,7 @@ Submit the following application materials to =mj.junca20@uniandes.edu.co=:
 - A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: =Recommendation <your-name>=.
 You can submit your application in either English or Spanish. We highlight that the event will be in English only.
 *** Dates
-| Event                 | Date              |
-| Application deadline  | September 14 2024 |
-|-----------------------+-------------------|
-| Decision notification | October 12 2024   |
+| Event                 | Date            |
+| Application deadline  | October 15 2024 |
+|-----------------------+-----------------|
+| Decision notification | October 25 2024 |
