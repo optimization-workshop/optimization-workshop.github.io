@@ -41,7 +41,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [[https://sites.google.com/site/optyingcui/][Ying Cui]] (University of California, Berkeley, USA)
 - [[https://modemat.epn.edu.ec/es/personal/jreyes][Juan Carlos de los Reyes]] (Centro de Modelización Matemática, Ecuador)
 - [[https://sites.google.com/uw.edu/ddrusv/home][Dmitriy Drusvyatskiy]] (University of Washington, USA)
-- [[https://sites.google.com/a/u.northwestern.edu/dduque/][Daniel Duque]] (Google, USA)
+- [[https://sites.google.com/view/daniel-duque/home][Daniel Duque]] (Google, USA)
 - [[https://fattahi.engin.umich.edu/][Salar Fattahi]] (University of Michigan, USA)
 - [[https://mitmgmtfaculty.mit.edu/rfreund/][Robert Freund]] (Massachusetts Institute of Technology, USA)
 - [[https://www.nicolasgarciat.com/][Nicolás García Trillos]] (University of Wisconsin-Madison, USA)
