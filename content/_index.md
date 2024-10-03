@@ -44,9 +44,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 -   [Janosh Ortmann](https://crm.umontreal.ca/~ortmann/) (University of Quebec in Montreal, Canada)
 -   [Bernardo Pagnoncelli](https://scholar.google.com/citations?user=na3ScswAAAAJ&hl=vi) (Skema Business School, France)
 -   [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
-
-<!--listend-->
-
 -   [Alvaro Riascos](https://www.alvaroriascos.com/) (Universidad de los Andes and Quantil, Colombia)
 -   [Katya Scheinberg](https://www.isye.gatech.edu/users/katya-scheinberg) (Georgia Institute of Technology, USA)
 -   [Jorge Sefair](https://www.ise.ufl.edu/sefair/) (University of Florida, USA)

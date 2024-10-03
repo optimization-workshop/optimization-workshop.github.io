@@ -51,7 +51,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [[https://crm.umontreal.ca/~ortmann/][Janosh Ortmann]] (University of Quebec in Montreal, Canada)
 - [[https://scholar.google.com/citations?user=na3ScswAAAAJ&hl=vi][Bernardo Pagnoncelli]] (Skema Business School, France)
 - [[https://sites.gatech.edu/ashwin-pananjady/][Ashwin Pananjady]] (Georgia Institute of Technology, USA)
-# - [[https://www.andrew.cmu.edu/user/jfp/][Javier Peña]] (Carnegie Mellon University, USA)
 - [[https://www.alvaroriascos.com/][Alvaro Riascos]] (Universidad de los Andes and Quantil, Colombia)
 - [[https://www.isye.gatech.edu/users/katya-scheinberg][Katya Scheinberg]] (Georgia Institute of Technology, USA)
 - [[https://www.ise.ufl.edu/sefair/][Jorge Sefair]] (University of Florida, USA)
@@ -59,6 +58,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [[https://sites.gatech.edu/alejandro-toriello/][Alejandro Toriello]] (Georgia Institute of Technology, USA)
 - [[https://cauribe.rice.edu/][César Uribe]] (Rice University, USA)
 - [[https://coral.ise.lehigh.edu/luiszuluaga/][Luis Zuluaga]] (Lehigh University, USA)
+# - [[https://www.andrew.cmu.edu/user/jfp/][Javier Peña]] (Carnegie Mellon University, USA)
 # - [[Https://jnocedal.github.io/][Jorge Nocedal]] (Northwestern University, USA)
 # - [[https://websites.umich.edu/~siqian/][Siqian Shen]]  (University of Michigan, USA)
 
