@@ -20,6 +20,8 @@
   </url><url>
     <loc>https://example.org/registration/</loc>
   </url><url>
+    <loc>https://example.org/reg-old/</loc>
+  </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
     <loc>https://example.org/grants/</loc>

@@ -115,6 +115,31 @@ On Monday we will have introductory minicourses in Continuous Optimization and I
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
 :EXPORT_FILE_NAME: reg
 :END:
+The deadline for *early registration is November 1.*
+
+The *cost for registration* is:
+| Type of participant                        | Price                    |
+| Students and postdocs (Early registration) | $12,5 USD ($50.000 COP)  |
+| Non-students (Early registration)          | $50 USD ($200.000 COP)   |
+| Students and postdocs                      | $18,75 USD ($75.000 COP) |
+| Non-students                               | $75 USD ($300.000 COP)   |
+
+*** Instructions
+Registration is relatively easy:
+
+1. Go to https://live.eventtia.com/en/optimization-workshop.
+2. Fill out the registration form. The only nontrivial part is the one concerning taxes, if you are not a resident of Colombia answer as follows:
+   #+attr_html: :width 500px
+   [[file:/image0.jpg]]
+3. Pay for registration through PayU.
+4. Done. You should receive an invoice via email.
+
+* Registration old
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout simple
+:EXPORT_FILE_NAME: reg-old
+:END:
 
 # Registering is nontrivial, so we have included detailed instructions.
 # Participants might decide to register online or in person (at the event).
