@@ -25,5 +25,5 @@ Registration is relatively easy:
 2.  Fill out the registration form. The only nontrivial part is the one concerning taxes, if you are not a resident of Colombia answer as follows:
 
     {{< figure src="/image0.jpg" width="500px" >}}
-3.  Pay for registration through PayU.
+3.  The system will take you to a paying service called PayU. Pay for registration using your preferred method
 4.  Done. You should receive an invoice via email.

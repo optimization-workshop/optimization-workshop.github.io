@@ -1,5 +1,5 @@
 +++
-title = "Registration old"
+title = "Old"
 author = ["Mateo Diaz"]
 draft = false
 layout = "simple"

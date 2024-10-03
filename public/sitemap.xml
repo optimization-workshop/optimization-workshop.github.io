@@ -10,6 +10,8 @@
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/reg-old/</loc>
+  </url><url>
     <loc>https://example.org/poster/</loc>
   </url><url>
     <loc>https://example.org/program/</loc>
@@ -19,8 +21,6 @@
     <loc>https://example.org/reg/</loc>
   </url><url>
     <loc>https://example.org/registration/</loc>
-  </url><url>
-    <loc>https://example.org/reg-old/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
