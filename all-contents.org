@@ -129,7 +129,7 @@ Registration is relatively easy:
 
 1. Go to https://live.eventtia.com/en/optimization-workshop.
 2. Fill out the registration form. The only nontrivial part is the one concerning taxes, if you are not a resident of Colombia answer as follows:
-   #+attr_html: :width 500px
+   #+attr_html: :width 800px
    [[file:/image0.jpg]]
 3. The system will take you to a paying service called PayU. Pay for registration using your preferred method
 4. Done. You should receive an invoice via email.
