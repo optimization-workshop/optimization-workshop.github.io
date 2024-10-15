@@ -48,8 +48,8 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [[https://math.uniandes.edu.co/~mjunca/][Mauricio Junca]] (Universidad de los Andes, Colombia)
 - [[https://business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html][Leonardo Lozano]] (University of Cincinnati, USA)
 - [[https://sites.usc.edu/nannicini/][Giacomo Nannicini]] (University of Southern California, USA)
-- [[https://crm.umontreal.ca/~ortmann/][Janosh Ortmann]] (University of Quebec in Montreal, Canada)
-- [[https://scholar.google.com/citations?user=na3ScswAAAAJ&hl=vi][Bernardo Pagnoncelli]] (Skema Business School, France)
+- [[https://www.gerad.ca/en/people/janosch-ortmann][Janosh Ortmann]] (University of Quebec in Montreal, Canada)
+- [[https://www.skema.edu/en/faculty-and-research/professors/bernardo-pagnoncelli][Bernardo Pagnoncelli]] (Skema Business School, France)
 - [[https://sites.gatech.edu/ashwin-pananjady/][Ashwin Pananjady]] (Georgia Institute of Technology, USA)
 - [[https://www.alvaroriascos.com/][Alvaro Riascos]] (Universidad de los Andes and Quantil, Colombia)
 - [[https://www.isye.gatech.edu/users/katya-scheinberg][Katya Scheinberg]] (Georgia Institute of Technology, USA)
@@ -284,10 +284,10 @@ If you are a student, postdoc or junior faculty working on optimization or relat
 Please send us an email to =mj.junca20@uniandes.edu.co= with subject =Poster Optimization Workshop= including the title and abstract of your paper (and a link to the paper if there is one online).
 
 *** Dates
-| Event                 | Date            |
-| Application deadline  | October 15 2024 |
-|-----------------------+-----------------|
-| Decision notification | October 25 2024 |
+| Event                 | Date               |
+| Application deadline  | October +15+ 20 2024 |
+|-----------------------+--------------------|
+| Decision notification | October 25 2024    |
 * Travel grants
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
@@ -303,7 +303,7 @@ Submit the following application materials to =mj.junca20@uniandes.edu.co=:
 - A recommendation letter from your advisor or a mentor. Please ask your recommender to submit the letter with the subject: =Recommendation <your-name>=.
 You can submit your application in either English or Spanish. We highlight that the event will be in English only.
 *** Dates
-| Event                 | Date            |
-| Application deadline  | October 15 2024 |
-|-----------------------+-----------------|
-| Decision notification | October 25 2024 |
+| Event                 | Date               |
+| Application deadline  | October +15+ 20 2024 |
+|-----------------------+--------------------|
+| Decision notification | October 25 2024    |

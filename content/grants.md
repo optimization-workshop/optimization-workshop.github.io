@@ -20,7 +20,7 @@ You can submit your application in either English or Spanish. We highlight that 
 
 ## Dates {#dates}
 
-| Event                 | Date            |
-|-----------------------|-----------------|
-| Application deadline  | October 15 2024 |
-| Decision notification | October 25 2024 |
+| Event                 | Date                   |
+|-----------------------|------------------------|
+| Application deadline  | October ~~15~~ 20 2024 |
+| Decision notification | October 25 2024        |
