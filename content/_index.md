@@ -41,7 +41,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 -   [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/) (Universidad de los Andes, Colombia)
 -   [Leonardo Lozano](https://business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html) (University of Cincinnati, USA)
 -   [Giacomo Nannicini](https://sites.usc.edu/nannicini/) (University of Southern California, USA)
--   [Janosh Ortmann](https://www.gerad.ca/en/people/janosch-ortmann) (University of Quebec in Montreal, Canada)
+-   [Janosch Ortmann](https://www.gerad.ca/en/people/janosch-ortmann) (University of Quebec in Montreal, Canada)
 -   [Bernardo Pagnoncelli](https://www.skema.edu/en/faculty-and-research/professors/bernardo-pagnoncelli) (Skema Business School, France)
 -   [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
 -   [Alvaro Riascos](https://www.alvaroriascos.com/) (Universidad de los Andes and Quantil, Colombia)

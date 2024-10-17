@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Optimization Worskhop'
+title = 'Optimization Workshop'
 theme = ['huey']
 
 [menu]
