@@ -272,6 +272,13 @@ Very safe and pleasant neighborhood. However, travel time to campus can vary and
 | Hotel           | Address               | Phone number                            | Contact point          | Email                               | Website                   |
 |*EK HOTEL* | Calle 90 No 11- 13 | (+57) 601 744 7790 - (+57) 321 233 6107 | María Claudia Gonzalez | mariaclaudia.gonzalez@bhhoteles.com | www.bhhoteles.com |
 | *NH COLLECTION ROYAL TELEPORT* | Cl. 113 No 7-65 | (+57) 321 996 6849 | Sebastian Shaid Arevalo | s.sahid@nh-hotels.com | https://www.nh-hotels.com |
+**** Restaurants near campus
+- [[ https://maps.app.goo.gl/TABi9Aq4dLnWmtV47][Casa Magola]] (Cafe)
+- [[https://maps.app.goo.gl/quVXvGhTJt856tdn6][Crepes and Waffles]]
+- [[https://maps.app.goo.gl/F53vvRRxSaLBH4KS7][La Puerta]]
+- [[https://maps.app.goo.gl/nm3HPMpqjEokwGSx8][Maria Tomasa]]
+- [[https://maps.app.goo.gl/mmCWq4FfyHEqee7y8][Randys]]
+
 * Posters
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
