@@ -61,7 +61,9 @@ Very safe and pleasant neighborhood. However, travel time to campus can vary and
 
 -   [Casa Magola](https://maps.app.goo.gl/TABi9Aq4dLnWmtV47) (Cafe) <br/>
 -   [Crepes and Waffles](https://maps.app.goo.gl/quVXvGhTJt856tdn6) <br/>
+-   [La Gasolinera](https://maps.app.goo.gl/wc8XhUzea3rCYqX79) <br/>
 -   [La Puerta](https://maps.app.goo.gl/F53vvRRxSaLBH4KS7) <br/>
 -   [Maria Tomasa](https://maps.app.goo.gl/nm3HPMpqjEokwGSx8) <br/>
--   [Randys](https://maps.app.goo.gl/mmCWq4FfyHEqee7y8)
+-   [Randys](https://maps.app.goo.gl/mmCWq4FfyHEqee7y8) <br/>
+-   [Wok CityU](https://maps.app.goo.gl/6y9Neu77qsswXTYR7)
 
