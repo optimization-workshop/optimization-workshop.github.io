@@ -86,9 +86,18 @@ If you have any questions or inquiries, please contact us at =mj.junca20@uniande
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout page
 :EXPORT_FILE_NAME: program
 :END:
-On Monday we will have introductory minicourses in Continuous Optimization and Integer Optimization. The rest of the week, from Tuesday to Friday we will have research talks. Come back soon for a detailed schedule.
+# On Monday we will have introductory minicourses in Continuous Optimization and Integer Optimization. The rest of the week, from Tuesday to Friday we will have research talks. Come back soon for a detailed schedule.
 
+** Booklet
+You can download a booklet with the schedule, titles, and abstract by [[file:/pdfs/booklet.pdf][clicking here]].
+# #+begin_export hugo
+# {{< embed-pdf url="/pdfs/booklet.pdf">}}
+# #+end_export
 
+** Schedule
+#+begin_export hugo
+{{< embed-pdf url="/pdfs/schedule.pdf" >}}
+#+end_export
 * Program1
 :PROPERTIES:
 :EXPORT_HUGO_SECTION:
@@ -119,14 +128,14 @@ On Monday we will have introductory minicourses in Continuous Optimization and I
 :END:
 *WE ARE SOLD OUT AND NOT TAKING ANY NEW REGISTRATIONS*
 
-The deadline for *early registration is November 1.*
+# The deadline for *early registration is November 1.*
 
-The *cost for registration* is:
-| Type of participant                        | Price                    |
-| Students and postdocs (Early registration) | $12,5 USD ($50.000 COP)  |
-| Non-students (Early registration)          | $50 USD ($200.000 COP)   |
-| Students and postdocs                      | $18,75 USD ($75.000 COP) |
-| Non-students                               | $75 USD ($300.000 COP)   |
+# The *cost for registration* is:
+# | Type of participant                        | Price                    |
+# | Students and postdocs (Early registration) | $12,5 USD ($50.000 COP)  |
+# | Non-students (Early registration)          | $50 USD ($200.000 COP)   |
+# | Students and postdocs                      | $18,75 USD ($75.000 COP) |
+# | Non-students                               | $75 USD ($300.000 COP)   |
 
 # *** Instructions
 # Registration is relatively easy:

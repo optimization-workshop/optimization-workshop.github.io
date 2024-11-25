@@ -5,4 +5,11 @@ draft = false
 layout = "page"
 +++
 
-On Monday we will have introductory minicourses in Continuous Optimization and Integer Optimization. The rest of the week, from Tuesday to Friday we will have research talks. Come back soon for a detailed schedule.
+## Booklet {#booklet}
+
+You can download a booklet with the schedule, titles, and abstract by [clicking here](/pdfs/booklet.pdf).
+
+
+## Schedule {#schedule}
+
+{{< embed-pdf url="/pdfs/schedule.pdf" >}}
