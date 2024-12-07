@@ -32,7 +32,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 -   [Beste Basciftci](https://sites.google.com/view/bestebasciftci/)  (University of Iowa, USA)
 -   [David Bernal Neira](https://secquoia.github.io/1-bernalde) (Purdue University, USA)
 -   [Luis M. Briceño Arias](http://lbriceno.mat.utfsm.cl/) (Universidad Técnica Federico Santa María)
--   [Ying Cui](//sites.google.com/site/optyingcui/) (University of California, Berkeley, USA)
 -   [Juan Carlos de los Reyes](https://modemat.epn.edu.ec/es/personal/jreyes) (Centro de Modelización Matemática, Ecuador)
 -   [Daniel Duque](https://sites.google.com/view/daniel-duque/home) (Google, USA)
 -   [Salar Fattahi](https://fattahi.engin.umich.edu/) (University of Michigan, USA)
@@ -46,10 +45,8 @@ We encourage all attendees, regardless of their experience level, to actively en
 -   [Bernardo Pagnoncelli](https://www.skema.edu/en/faculty-and-research/professors/bernardo-pagnoncelli) (Skema Business School, France)
 -   [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
 -   [Katya Scheinberg](https://www.isye.gatech.edu/users/katya-scheinberg) (Georgia Institute of Technology, USA)
--   [Jorge Sefair](https://www.ise.ufl.edu/sefair/) (University of Florida, USA)
 -   [Soroosh Shafiee](https://sorooshafiee.github.io/) (Cornell University, USA)
 -   [Alejandro Toriello](https://sites.gatech.edu/alejandro-toriello/) (Georgia Institute of Technology, USA)
--   [César Uribe](https://cauribe.rice.edu/) (Rice University, USA)
 -   [Luis Zuluaga](https://coral.ise.lehigh.edu/luiszuluaga/) (Lehigh University, USA)
 
 
