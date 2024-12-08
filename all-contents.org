@@ -245,7 +245,7 @@ Registration is slightly nontrivial, so we have included detailed instructions w
 
 The workshop will take place at Universidad de Los Andes in Bogota, Colombia. The campus is closed to the public, you should [[https://maps.app.goo.gl/NHcd1iTtDnT2Z6Wc7][enter through the Roberto Franco Building]] (with the QR code we sent you to your email).
 
-- Talks will take place in the *[[https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7][B Building, Room 201]]*. Be careful, if you Google "Edificio B, Uniandes" the location is wrong use the position we link [[https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7][here]].
+- Talks will take place in the *[[https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7][B Building, Room 202]]*. Be careful, if you Google "Edificio B, Uniandes" the location is wrong use the position we link [[https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7][here]].
 - The posters will be presented on the *[[https://maps.app.goo.gl/smw4CWMZzjThQXsn6][7th floor of the SD Building.]]*
 - The event dinner will be held at *[[https://maps.app.goo.gl/eJ5K6ZQBN9thHiWT6][Origen Bistro]]* (a couple of blocks away from campus).
 
